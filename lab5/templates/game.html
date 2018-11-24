@@ -1,0 +1,32 @@
+<html>
+<head>
+    <script src="/static/app.js" language="JavaScript"></script>
+    <!--<link rel="stylesheet" type="text/css" href="style.css">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Level: {{difficulty}}</title>
+</head>
+<body>
+    <div id="images">
+        {% for image_link in image_links %}
+            <img src="{{ image_link }}">
+        {% endfor %}
+    </div>
+    <form id="guessform">
+        Your guess:
+        <select id="guessname">
+            <option selected>Name</option>
+            {% for name in names %}
+            <option value="{{ name }}">{{ name }}</option>
+            {% endfor %}
+        </select>
+        <button type="button" id="cmdCheckGuess"
+                onclick='getGuessResult("randomdiv", "guessname", "guessresult")'>Guess!</button>
+        <span id="guessresult">Never tried</span>
+    </form>
+    <div id="newg">
+        <button type="button"
+                onclick='location.reload();'>New Game!</button>
+    </div>
+    <div id="randomdiv" style="display: none;">{{ name_index }}</div>
+</body>
+</html>
