@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>{{ title }} - pyrss</title>
+    <script src="/static/app.js" language="JavaScript"></script>
+</head>
+<body>
+
+<h1>{{ title }}</h1>
+<br>
+<a href="/">Back to list</a>
+<div id="feed_id" style="display: none;">{{ feed_id }}</div>
+<br>
+<button id="feed_update" onclick="updateFeed()">Update feed</button>
+<div id="feed_update_prg" style="display: none;">Updating...</div>
+
+<br>
+Pages:
+{% for page in pages %}
+    {% if page == currentpage %}
+<a href="/feed/view/{{ feed_id }}?page={{ page }}"><b>{{ page }}</b></a>
+    {% else %}
+        <a href="/feed/view/{{ feed_id }}?page={{ page }}">{{ page }}</a>
+    {% endif %}
+{% endfor %}
+
+{% for entry in entries %}
+    <div class="entry">
+        <h2>
+            {{ entry[2] }}
+        </h2>
+        {{ entry[3]|safe }}
+        <br>
+        <br>
+        {{ entry[5] }}
+        <br>
+        <a href="{{ entry[1] }}">Continue reading</a>
+    </div>
+{% endfor %}
+
+</body>
+</html>

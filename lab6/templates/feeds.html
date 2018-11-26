@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>Feeds</title>
+    <script src="/static/app.js" language="JavaScript"></script>
+</head>
+<body>
+
+<h1>Feeds list</h1>
+
+{% for entry in entries %}
+    <div class="entry">
+        <h2>
+            {{ entry[1] }}
+        </h2>
+        {{ entry[2] }}
+        <br>
+        <a href="/feed/view/{{ entry[0] }}">Open feed</a>
+    </div>
+{% endfor %}
+
+<br>
+New feed:
+<input type="text" id="new_feed_url">
+<button id="new_feed_cmd" onclick="addFeed()">Add feed</button>
+<div id="new_feed_prg" style="display:none;">Adding...</div>
+
+</body>
+</html>

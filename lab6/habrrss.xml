@@ -1,0 +1,469 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Хабр / Интересные публикации</title>
+    <link>https://habr.com/</link>
+    <description><![CDATA[Интересные публикации на Хабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Mon, 26 Nov 2018 05:09:56 GMT</pubDate>
+    <lastBuildDate></lastBuildDate>
+      <image>
+        <link>https://habr.com/</link>
+        <url>https://habr.com/images/logo.png</url>
+        <title>Хабр</title>
+      </image>
+
+              <item>
+      <title><![CDATA[PHP-Дайджест № 144 (12 – 26 ноября 2018)]]></title>
+      <guid isPermaLink="true">https://habr.com/post/431042/</guid>
+      <link>https://habr.com/post/431042/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431042</link>
+      <description><![CDATA[<a href="https://habr.com/post/431042/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/le/4o/eu/le4oeu3-zi7dfqnltwwfjv2z_xq.jpeg" width="600"></div></a><br>
+<p>Свежая подборка со ссылками на новости и материалы. В выпуске: PHP 7.3.0RC6, PhpStorm 2018.3 и другие релизы, Symfony покидает PHP-FIG, свежие предложения и новости PHP Internals, порция полезных инструментов, видеозаписи с прошедших митапов и конференций и многое другое.<br>
+Приятного чтения!</p><br> <a href="https://habr.com/post/431042/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431042#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 22:00:36 GMT</pubDate>
+      <dc:creator>pronskiy</dc:creator>
+      <category><![CDATA[Laravel]]></category><category><![CDATA[PHP]]></category><category><![CDATA[Symfony]]></category><category><![CDATA[Yii]]></category><category><![CDATA[Разработка веб-сайтов]]></category>
+      <category><![CDATA[дайджест]]></category><category><![CDATA[php-дайджест]]></category><category><![CDATA[PHP]]></category><category><![CDATA[Symfony]]></category><category><![CDATA[Laravel]]></category><category><![CDATA[PhpStorm]]></category><category><![CDATA[Yii]]></category><category><![CDATA[Async PHP]]></category><category><![CDATA[PHP 7.3]]></category><category><![CDATA[PHP-FIG]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Дайджест свежих материалов из мира фронтенда за последнюю неделю №340 (19 — 25 ноября 2018)]]></title>
+      <guid isPermaLink="true">https://habr.com/post/431040/</guid>
+      <link>https://habr.com/post/431040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431040</link>
+      <description><![CDATA[Предлагаем вашему вниманию подборку с ссылками на новые материалы из области фронтенда и около него.<br>
+<br>
+<p><img src="https://habrastorage.org/webt/du/hu/_y/duhu_y4ohyzcxdvh8bfshzs8bmq.png"></p><br> <a href="https://habr.com/post/431040/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431040#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 21:59:40 GMT</pubDate>
+      <dc:creator>alexzfort</dc:creator>
+      <category><![CDATA[CSS]]></category><category><![CDATA[HTML]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Разработка веб-сайтов]]></category>
+      <category><![CDATA[дайджест]]></category><category><![CDATA[фронтенд]]></category><category><![CDATA[css]]></category><category><![CDATA[js]]></category><category><![CDATA[es6]]></category><category><![CDATA[vue]]></category><category><![CDATA[react]]></category><category><![CDATA[angular]]></category><category><![CDATA[html5]]></category><category><![CDATA[браузеры]]></category><category><![CDATA[ссылки]]></category><category><![CDATA[подкасты]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Дайджест интересных материалов для мобильного разработчика #276 (19 — 25 ноября)]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430976/</guid>
+      <link>https://habr.com/post/430976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430976</link>
+      <description><![CDATA[На этой неделе у нас тестирование кроссплатформенных фреймворков, реактивные компоненты, фантастические десктопы, новые ориентиры для маркетологов, собственная реализация говорящей шляпы и много всего интересного!<br>
+<br>
+<img src="https://habrastorage.org/webt/ue/cu/sx/uecusx_-rlkccrp0by0urx0scyg.png"> <a href="https://habr.com/post/430976/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430976#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 10:39:11 GMT</pubDate>
+      <dc:creator>EverydayTools</dc:creator>
+      <category><![CDATA[Блог компании Everyday Tools]]></category><category><![CDATA[Разработка игр]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[Разработка под iOS]]></category>
+      <category><![CDATA[аналитика мобильных приложений]]></category><category><![CDATA[маркетинг мобильных приложений]]></category><category><![CDATA[UI]]></category><category><![CDATA[фреймфорки]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Китайская система распознавания лиц посчитала изображение человека на автобусе нарушителем ПДД]]></title>
+      <guid isPermaLink="true">https://habr.com/post/431004/</guid>
+      <link>https://habr.com/post/431004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431004</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/a01/2ad/761/a012ad76171d5b410be93e3a955374e1.jpg"><br>
+<br>
+В Китае довольно много разных систем, использующих распознавание лиц. Одна из них уже пару лет работает на дорогах, борясь с пешеходами, которые пересекают дорогу в неположенном месте. Эта борьба дает определенные плоды — количество нарушений такого рода значительно сократилось. <br>
+<br>
+Но бывают и курьезные случаи. Например, на днях система распознавания лиц «засекла» известную бизнесвумен Китая Донг Минджу, посчитав ее правонарушителем. Случилось это в китайском городе Нинбо. Системы такого рода выводят изображение на большой экран, чтобы другие граждане могли увидеть того, кто нарушает правила дорожного движения. <br> <a href="https://habr.com/post/431004/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431004#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 17:24:31 GMT</pubDate>
+      <dc:creator>marks</dc:creator>
+      <category><![CDATA[Будущее здесь]]></category><category><![CDATA[Обработка изображений]]></category>
+      <category><![CDATA[распознавание лиц]]></category><category><![CDATA[изображения]]></category><category><![CDATA[китай]]></category><category><![CDATA[дороги]]></category><category><![CDATA[нарушение ПДД]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Создаем читалку eBook с помощью PDFKit на Swift]]></title>
+      <guid isPermaLink="true">https://habr.com/post/431012/</guid>
+      <link>https://habr.com/post/431012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431012</link>
+      <description><![CDATA[Добрый день! Представляю вашему вниманию продолжение статьи «Скачиваем, сохраняем и просматриваем PDF в Swift», как и обещал автор — немного подробнее рассмотрим PDFKit.<br>
+<br>
+PDFKit появился в iOS 11, и в нем есть 3 замечательные функции, о которых бы я хотел рассказать, в процессе создания приложения читалки eBook: <b>Разбиение по страницам</b>, <b>Отображение Содержания</b> и <b>Иконка страницы</b>.<br>
+<br>
+Всем, кто заинтересовался, добро пожаловать под кат.<br> <a href="https://habr.com/post/431012/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431012#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 18:46:05 GMT</pubDate>
+      <dc:creator>kosyakus</dc:creator>
+      <category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка под iOS]]></category>
+      <category>перевод с английского</category><category>ios разработка</category><category>tutorial</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[США просят партнеров отказаться от использования оборудования Huawei]]></title>
+      <guid isPermaLink="true">https://habr.com/post/431016/</guid>
+      <link>https://habr.com/post/431016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431016</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/3af/6a1/62a/3af6a162ad6c793aa446f85e0d1c89b6.png" width="300" align="left">На днях The Wall Street Journal со ссылкой на анонимные источники опубликовало информацию о том, что США <a href="https://www.wsj.com/articles/washington-asks-allies-to-drop-huawei-1542924205">просит</a> партнерские страны отказаться от оборудования китайской компании Huawei. В частности, чиновники США предупреждают поставщиков беспроводных услуг в таких странах, как Германия, Италия и Япония. <br>
+<br>
+Американские чиновники даже рассматривают вариант предоставления финансовой помощи тем странам и компаниям, которые будут развивать свою сетевую инфраструктуру без использования оборудования китайской компании. Проблема в том, что США считают, что Пекин ведет скрытый шпионаж за критически важной информацией компаний и госорганов Америки. <br> <a href="https://habr.com/post/431016/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431016#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 19:17:26 GMT</pubDate>
+      <dc:creator>marks</dc:creator>
+      <category><![CDATA[Законодательство в IT]]></category><category><![CDATA[Сетевое оборудование]]></category>
+      <category><![CDATA[huawei]]></category><category><![CDATA[zte]]></category><category><![CDATA[компании]]></category><category><![CDATA[сша]]></category><category><![CDATA[китай]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[«С чего начинается путь геймдизайнера?» — Step By Step vol.1]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430984/</guid>
+      <link>https://habr.com/post/430984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430984</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/webt/_s/wo/ny/_swonyzn8fm9da11kw_rnn1vyh8.jpeg" width="450"></div><br>
+ <b>Доброго времени суток читатели! </b><br>
+<br>
+Если вы твердо решили заниматься разработкой игр то вы наверняка знаете что делать если вы:<br>
+концепт художник, видеомонтажер, художник по спецэффектам, звуковик, кодер, дизайнер интерфейсов, сетевой специалист и тд.<br>
+<br>
+<b>Но как быть геймдизайнеру? </b>Какой необходимый минимум у него должен быть, для того чтобы выполнять свою работу? С чего начать?<br>
+<br>
+<h4>Самое важное</h4><br>
+На геймдизайнера не учат.<br>
+Такой специальности официально не существует и дипломов нет(в университетах, пока что, если у вас есть информация по этому поводу, делитесь в комментариях)<br>
+Да, есть множество курсов, но будут они полезны или нет, а самое главное, на каком этапе они нужны.<br>
+<br>
+Перед прочтением статьи, рекомендую <a href="https://habr.com/post/430276/">ознакомится с этим материалом</a><br>
+<br>
+Итак, вы все же решили пойти по тернистому пути геймдизайнера, у вас есть 2 варианта <a href="https://habr.com/post/430984/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430984#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 15:10:28 GMT</pubDate>
+      <dc:creator>Hzpriezz</dc:creator>
+      <category><![CDATA[Дизайн игр]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Разработка игр]]></category>
+      <category><![CDATA[начало карьеры]]></category><category><![CDATA[геймдизайн]]></category><category><![CDATA[gamedev]]></category><category><![CDATA[личный опыт]]></category><category><![CDATA[организация]]></category><category><![CDATA[игровой проект]]></category><category><![CDATA[прототип]]></category><category><![CDATA[игровая механика]]></category><category><![CDATA[тестирование]]></category><category><![CDATA[начало разработки]]></category><category><![CDATA[новичку]]></category><category><![CDATA[с чего начать]]></category><category><![CDATA[цикл статей]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Ремонт выходного дня или как починить троттл контроллер Saitek Rhino X55/X56]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430990/</guid>
+      <link>https://habr.com/post/430990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430990</link>
+      <description><![CDATA[<p>Небольшое приключение двух джойстиков. Рассказ о том как починить Rhino Throttle Controller X55 (X56) с минимальными затратами. Читать с осторожностью! Содержит неприемлемое отношение к схемотехнике и правилам коммутации электронных устройств.</p><br>
+<p><strong>Дисклеймер! </strong> <em>Делать так как я сделал не правильно, по-хорошему надо делать замену компонента или как минимум TVS диоды ставить!</em> </p> <a href="https://habr.com/post/430990/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430990#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 15:24:31 GMT</pubDate>
+      <dc:creator>AlexSmall</dc:creator>
+      <category><![CDATA[DIY или Сделай сам]]></category>
+      <category><![CDATA[Saitek]]></category><category><![CDATA[Rhino]]></category><category><![CDATA[X55]]></category><category><![CDATA[X56]]></category><category><![CDATA[CY7C64215]]></category><category><![CDATA[ремонт]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[Из песочницы] Релиз XMPP (Jabber) сервера Prosody 0.11.0]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430998/</guid>
+      <link>https://habr.com/post/430998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430998</link>
+      <description><![CDATA[<p>Представлен первый релиз 0.11-ой стабильной ветки <a href="https://prosody.im">XMPP сервера Prosody</a> с исправлениями более чем 2000 ошибок.</p><br>
+<p><strong>Основные изменения</strong></p><br>
+<p>Наиболее значительные улучшения коснулись модулей MUC и pubsub.</p><br>
+<p>Вместе эти компоненты реализуют два из самых обширных расширений XEP стандарта XMPP, которые в настоящее время предоставляет протокол. Хотя предыдущие версии уже довольно давно поддерживали MUC и pubsub, оба они довольно сложны, и после первоначальной реализации стало понятно, что необходимо провести обновление и рефакторинг кода, чтобы увеличить покрытие требуемой XEP функциональности, улучшить структуру кода и масштабируемость решений.</p><br>
+<p>Также было осуществлено много других изменений, улучшений, исправлений ошибок, и проведено работ над производительностью, которые вошли в этот выпуск.</p> <a href="https://habr.com/post/430998/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430998#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 16:09:01 GMT</pubDate>
+      <dc:creator>okeld</dc:creator>
+      <category><![CDATA[Lua]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Децентрализованные сети]]></category><category><![CDATA[Системы обмена сообщениями]]></category>
+      <category>jabber</category><category>xmpp</category><category>prosody</category><category>новости</category>
+    </item>
+
+
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Конференция DEFCON 16. Как я могу завладеть вами? Позвольте мне перечислить способы. Часть 1]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430982/</guid>
+      <link>https://habr.com/post/430982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430982</link>
+      <description><![CDATA[Я всегда поражаюсь количеству присутствующих здесь людей, особенно учитывая, кто я по сравнению с Филом Циммерманом, так что спасибо, что потешили моё эго. Я Рендермен, и если хотя бы трое из вас меня не знают, скажу, что выступаю здесь на DefCon уже 10 лет. Я люблю это место, этих ребят, это наша семья, и это единственное место, где я чувствую себя нормально.<br>
+<br>
+<img src="https://habrastorage.org/webt/im/wc/t6/imwct6ivpng2e5p5mfchq8n3sok.jpeg"><br>
+<br>
+Моя сегодняшняя презентация называется «Как я могу завладеть вами? Позвольте мне перечислить способы». Эта тема родилась на конференции SECTOR в Торонто. Вы знаете, что рабочее пространство становится всё более мобильным и беспроводным. Вы видите это везде – в аэропортах, в гостиницах, здесь в Вегасе. Люди постоянно набирают что то на экранах смартфонов, разговаривают и это обычная картина для нашего времени, в каждой компании есть что-то вроде этого. <br>
+<br>
+Мобильные пользователи находятся вдали от зоркого ока BOFH, оператора компьютерных сетей (и от наказания), так что если они делают что-то глупое, что нарушает вашу безопасность, вы не можете добраться до них. Они могут находиться на другом конце земли, но при этом причинять вред вашим сетям, потому этому вопросу нужно уделить внимание, чтобы защитить свою компанию и самого себя. <a href="https://habr.com/post/430982/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430982#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 13:44:54 GMT</pubDate>
+      <dc:creator>ua-hosting</dc:creator>
+      <category><![CDATA[Блог компании ua-hosting.company]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Конференции]]></category><category><![CDATA[Программирование]]></category>
+      <category>Безопасность беспроводных устройств</category>
+    </item>
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Память вашего компьютера лагает каждые 7,8 мкс]]></title>
+      <guid isPermaLink="true">https://habr.com/post/431010/</guid>
+      <link>https://habr.com/post/431010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431010</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/dc7/f53/c6e/dc7f53c6eb17bfa58db7c138915bce84.jpg"></div><br>
+<i><font color="gray">Современная DDR3 SDRAM. Источник: <a href="https://en.wikipedia.org/wiki/DDR3_SDRAM#/media/File:2013_Transcend_TS512MLK72V6N-(straightened).jpg">BY-SA/4.0 by Kjerish</a></font></i><br>
+<br>
+Во время недавнего посещения <a href="http://www.computerhistory.org/">Музея компьютерной истории</a> в Маунтин-Вью моё внимание привлёк древний образец <a href="https://en.wikipedia.org/wiki/Magnetic-core_memory">ферритовой памяти</a>.<br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/2b2/d31/5c6/2b2d315c67b80adcd5f0b5bf4dd23e7a.jpg"></div><br>
+<i><font color="gray">Источник: <a href="https://en.wikipedia.org/wiki/File:KL_CoreMemory.jpg">BY-SA/3.0 by Konstantin Lanzet</a></font></i><br> <a href="https://habr.com/post/431010/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=431010#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 18:18:22 GMT</pubDate>
+      <dc:creator>m1rko</dc:creator>
+      <category><![CDATA[C]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Компьютерное железо]]></category>
+      <category>RAM</category><category>ОЗУ</category><category>обновление памяти</category><category>Rowhammer</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Неуловимый баг LittleBigPlanet]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430996/</guid>
+      <link>https://habr.com/post/430996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430996</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/081/428/982/0814289829eef320a5adbe4305034930.jpg" alt="image"><br>
+<br>
+В истории игровой разработки можно обнаружить <a href="https://habr.com/post/328552/">немало интересных багов</a>, с которыми <a href="https://habr.com/post/358704/">приходилось сражаться разработчикам</a>. Впрочем, как следует из истории, <a href="https://twitter.com/mmalex/status/1066111290580582403">рассказанной в Twitter</a> техническим директором компании Media Molecule Алексом Эвансом (известен своим <a href="https://youtu.be/hcadJ2OllBs">участием в демосцене</a> конца 90-ых, серией LittleBigPlanet и игрой Rag Doll Kung Fu) на выходных, многие легенды нам еще только предстоит услышать.<br>
+<br>
+Случай, о котором пойдет речь, произошел десять лет назад — в 2008 году. Во время разработки первой части игры <a href="https://ru.wikipedia.org/wiki/LittleBigPlanet">LittleBigPlanet</a> — оригинального паззл-платформера, который должен быть стать эксклюзивом для PlayStation 3 — разработчикам компании пришлось столкнуться с воистину неуловимым багом.<br>
+<br>
+Обычно для получения «зелёного света» на выпуск игры на консолях требуется пройти сертификацию — выполнить некоторый набор требований, которые устанавливает платформодержатель. Сертификация может предполагать и такие специфические условия, как стабильная работа игры в течение суток без вылетов.<br>
+<br>
+Процесс разработки LittleBigPlanet практически подошел к концу и оставалось всего две недели до того, как игра должна была «уйти на золото». Внезапно, тестировщик из отдела QA в Японии сообщил о том, что игра стабильно «падает», когда он оставляет ее работать на ночь. Естественно, теперь до исправления бага ни о каком выпуске игры не могло быть и речи.<br> <a href="https://habr.com/post/430996/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430996#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 17:30:05 GMT</pubDate>
+      <dc:creator>HotWaterMusic</dc:creator>
+      <category><![CDATA[История IT]]></category><category><![CDATA[Разработка игр]]></category>
+      <category><![CDATA[littlebigplanet]]></category><category><![CDATA[баги]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[«Всем иногда хочется посмотреть на кота»: говорим о контент-маркетинге в подкасте «GLPH»]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430980/</guid>
+      <link>https://habr.com/post/430980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430980</link>
+      <description><![CDATA[Это — подкаст с теми, кто пишет, редактирует, снимает фото, видео и руководит созданием контента. Сегодня мы подготовили для вас текстовую версию четвертого выпуска.<br>
+<br>
+Его гость — Ольга Голованова — исполнительный директор, автор спецпроектов и креатива в <a href="https://bigpikcha.ru">BigPikcha.ru</a>. Мы поговорили о контент-маркетинге, редакционной «кухне», подаче нативной рекламы и опыте подготовки тематических спецпроектов для BigPikcha.ru:<br>
+<br>
+<ul>
+<li><a href="https://t.me/glphmedia/20">прослушать в Telegram</a></li>
+<li><a href="https://itunes.apple.com/ru/podcast/glph-media/id1435713366">подписаться в iTunes</a></li>
+<li><a href="http://vigorousspace.co/glph/4">прослушать в веб-версии</a></li>
+</ul><br>
+<a href="https://habr.com/company/vsce/blog/430980/"><img src="https://habrastorage.org/webt/h3/31/5y/h3315y54iazebmnlbbq3aogca68.jpeg"></a> <a href="https://habr.com/post/430980/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430980#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 16:56:10 GMT</pubDate>
+      <dc:creator>glphmedia</dc:creator>
+      <category><![CDATA[Блог компании VSCE]]></category><category><![CDATA[Контент-маркетинг]]></category><category><![CDATA[Медийная реклама]]></category><category><![CDATA[Управление медиа]]></category>
+      <category><![CDATA[GLPH Media]]></category><category><![CDATA[Алина Тестова]]></category><category><![CDATA[BigPikcha.ru]]></category><category><![CDATA[Ольга Голованова]]></category><category><![CDATA[подкаст]]></category><category><![CDATA[контент-маркетинг]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Российский беспилотный автомобиль StarLine проехал от Санкт-Петербурга до Казани]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430986/</guid>
+      <link>https://habr.com/post/430986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430986</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/d12/d14/1b9/d12d141b99d6fddcf5c116cd29a0180a.jpg"><br>
+<br>
+Команда НПО «СтарЛайн» разработала умный беспилотный автомобиль StarLine, проект реализуется по программе освоения пяти уровней автономности. В настоящий момент робомобиль достиг 3-го уровня, в мае 2018 года он прошел испытания в полевых условиях, преодолев расстояние в несколько десятков километров. Сейчас робомобиль <a href="https://smartcar.starline.ru/">преодолел</a> более 2500 километров, проехав от Санкт-Петербурга до Казани. <br>
+<br>
+Беспилотник, по словам разработчиков, умеет ориентироваться в дорожной обстановке. Он может следовать по заданному маршруту, держать дистанцию, считывать разметку и знаки, обходить препятствия и экстренно тормозить.<br> <a href="https://habr.com/post/430986/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430986#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 15:15:48 GMT</pubDate>
+      <dc:creator>marks</dc:creator>
+      <category><![CDATA[Робототехника]]></category><category><![CDATA[Транспорт будущего]]></category>
+      <category><![CDATA[робомобили]]></category><category><![CDATA[такси]]></category><category><![CDATA[старлайн]]></category><category><![CDATA[транспорт будущего]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[[recovery mode] Беседы с «Высшим разумом». Дроны везде]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430968/</guid>
+      <link>https://habr.com/post/430968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430968</link>
+      <description><![CDATA[Продолжение публикации (<a href="https://habr.com/post/430180/">про иной разум</a>) отрывков из книги "<a href="https://drive.google.com/file/d/1HfzAuhYcC5QiiBVSOSoAjRzu9_FZmR94/view?usp=sharing">Высший разум</a>". Собрал все, что в ней есть про дроны, в один пост.<br>
+<br>
+На улицах стало появляться больше дронов. Даже полицейские стали патрулировать улицы при помощи дронов, чтобы не приближаться к другим людям. Со временем на видео я все чаще видел дронов, но не видел полицейских. Это выглядело как со съемок голливудской фантастики. Потом начался бум дронов. Летающих, ездящих. Множество недорогих китайских квадрокоптеров, автомобилей с камерами. Некоторые машины с автопилотами работали вместо бензиновых на водородных двигателях нового поколения, которые тоже непонятно откуда появились в большом количестве. Одного баллона водорода ему хватало на пару дней полетов. Это было недорогое топливо и продавалось оно в банках из-под пепси в обычных интернет-магазинах. Откуда дешевый водород появился в таком количестве никто не знал. Некоторые дроны могли неделю висеть в воздухе без заправки, таская с собой несколько таких банок вместо груза и переставляя их своим же манипулятором. В них был еще и аккумулятор для такой перезарядки. <br>
+<br>
+Машины с электронным рулевым управлением умельцы снабжали камерами и компьютером управления с автопилотом и навигацией. А вместо багажника ставили руку-манипулятор, который мог загрузить машину. И такая машина была готовым автопилотом-роботом, управляемым через мобильный интернет. Их сразу прозвали автоботами, так как они походили на эти трансформеры. <br> <a href="https://habr.com/post/430968/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430968#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 07:31:18 GMT</pubDate>
+      <dc:creator>Xom</dc:creator>
+      <category><![CDATA[Будущее здесь]]></category><category><![CDATA[Научная фантастика]]></category>
+      <category><![CDATA[дроны]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[Из песочницы] А сколько вы потратили времени на фильмы?]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430978/</guid>
+      <link>https://habr.com/post/430978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430978</link>
+      <description><![CDATA[<h3>Возникновение идеи</h3><br>
+Недавно был в гостях у друзей и мы выбирали фильм, а я как прожжённый киноман (на самом деле, не то чтобы прям прожжённый) отбраковывал всё как просмотренные. И мне задали логичный вопрос, а что ты вообще не смотрел? На что я рассказал, что веду кинопоиск и каждый фильм, которые посмотрел отмечаю либо оценкой, либо просто галочкой, что просмотр состоялся. И тут в голове у меня возник вопрос, а сколько я вообще времени то потратил на фильмы? В Steam есть удобная статистика по игре, а по фильмам ничего такого нет. Вот и решил я заняться данной идеей.<br>
+<br> <a href="https://habr.com/post/430978/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430978#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 12:54:29 GMT</pubDate>
+      <dc:creator>alados</dc:creator>
+      <category><![CDATA[Python]]></category><category><![CDATA[Кодобред]]></category>
+      <category>python3</category><category>kinopoisk.ru</category><category>proxy</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[Учим поросёнка на моноидах верить в себя и летать]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430956/</guid>
+      <link>https://habr.com/post/430956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430956</link>
+      <description><![CDATA[<p>В <a href="https://habr.com/post/429530/">одной</a> из предыдущих статей я рассказывал о том, как можно построить исполнитель программ для виртуальной стековой машины, используя подходы функционального и языково-ориентированного программирования. Математическая структура языка подсказала базовую структуру для реализации его транслятора, основанную на концепции полугрупп и моноидов. Этот подход позволил построить красивую и расширяемую реализацию и сорвать аплодисмент, но первый же вопрос из зала заставил меня слезть с трибуны и снова залезть в Emacs. </p><br>
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/n2/ln/ne/n2lnneohm_d4rsc-qkw_n4cguyw.png" width="80%"></div><br>
+<p>Я провёл простое тестирование и убедился в том, что на простых задачах, использующих только стек, виртуальная машина работает шустро, а при использовании "памяти" — массива со случайным доступом — начинаются большие проблемы. О том, как удалось их решить, не меняя базовых принципов архитектуры программы и достичь тысячекратного ускорения работы программы, и пойдёт речь в предлагаемой вашему вниманию статье. </p> <a href="https://habr.com/post/430956/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430956#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 10:12:40 GMT</pubDate>
+      <dc:creator>samsergey</dc:creator>
+      <category><![CDATA[Haskell]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Функциональное программирование]]></category>
+      <category><![CDATA[моноиды]]></category><category><![CDATA[монады]]></category><category><![CDATA[Haskell]]></category><category><![CDATA[Хаскелл]]></category><category><![CDATA[производительнoсть программы]]></category><category><![CDATA[функциональное программирование]]></category><category><![CDATA[изменяемое состояние]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Julia. Скрипты и разбор аргументов командной строки]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430942/</guid>
+      <link>https://habr.com/post/430942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430942</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/webt/pi/ts/0a/pits0aw00iivzdctpqqr82w5hww.png"><br>
+Продолжаем разбираться с языком программирования Julia. Поскольку для языка, ориентированного на анализ и обработку данных, просто необходимо иметь пакетный режим работы, рассмотрим особенности реализации скриптов на языке Julia и передачи им аргументов из командной строки. Кому-то, может быть, эта тема покажется банальностью, но, учитывая новизну языка, надеюсь, что небольшой обзор способов разбора аргументов командной строки и библиотек для этого, представленных в Julia, всё таки окажется полезным.</p> <a href="https://habr.com/post/430942/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430942#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 06:58:55 GMT</pubDate>
+      <dc:creator>rssdev10</dc:creator>
+      <category><![CDATA[Julia]]></category><category><![CDATA[Программирование]]></category>
+      <category><![CDATA[julia]]></category><category><![CDATA[Скрипты]]></category><category><![CDATA[argparse]]></category><category><![CDATA[docopt]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Большая фотоэкскурсия по московскому облаку 1cloud]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430974/</guid>
+      <link>https://habr.com/post/430974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430974</link>
+      <description><![CDATA[Это — фотоэкскурсия по московскому дата-центру DataSpace, в котором размещается наше оборудование. Покажем системы безопасности ЦОД, серверные стойки и само железо.<br>
+<br>
+<b>Внимание — под катом много фото.</b><br>
+<br>
+<a href="https://habr.com/company/1cloud/blog/430974/"><img src="https://habrastorage.org/webt/jh/qt/dr/jhqtdriyx8y-lhnkh9bhznibzxo.jpeg"></a> <a href="https://habr.com/post/430974/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430974#habracut">Читать дальше →</a>]]></description>
+
+      <pubDate>Sun, 25 Nov 2018 09:49:39 GMT</pubDate>
+      <dc:creator>1cloud</dc:creator>
+      <category><![CDATA[Блог компании 1cloud.ru]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[Компьютерное железо]]></category><category><![CDATA[Хостинг]]></category><category><![CDATA[Хранилища данных]]></category>
+      <category><![CDATA[1cloud]]></category><category><![CDATA[DataSpace]]></category><category><![CDATA[ЦОД]]></category><category><![CDATA[виртуальная инфраструктура]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+    <item>
+      <title><![CDATA[[Из песочницы] Генератор масок расширений диалплана Asterisk]]></title>
+      <guid isPermaLink="true">https://habr.com/post/430934/</guid>
+      <link>https://habr.com/post/430934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430934</link>
+      <description><![CDATA[У системного администратора, работающего с Asterisk, часто возникает необходимость составить маски расширений для диалплана по интервалам DEF кодов. Вручную делать это трудоёмко, а чуть ли не единственный работающий <a href="https://habr.com/post/150793/">скрипт</a>, который можно найти в интернете, на самом деле не такой уж и работающий.<br/>
+<br/>
+Надеюсь, кому-нибудь пригодится небольшой cli генератор на go, который пришлось недавно написать, чтобы обновить существующий диалплан.<br/>
+ <a href="https://habr.com/post/430934/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=430934#habracut">Читать дальше &rarr;</a>]]></description>
+
+      <pubDate>Sat, 24 Nov 2018 15:31:51 GMT</pubDate>
+      <dc:creator>prekrati</dc:creator>
+      <category><![CDATA[Asterisk]]></category><category><![CDATA[Системное администрирование]]></category>
+      <category>asterisk</category><category>dialplan</category><category>extensions.conf</category>
+    </item>
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
